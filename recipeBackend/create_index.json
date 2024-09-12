@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "properties": {
+      "id": { "type": "keyword" },
+      "title": { "type": "text" },
+      "ingredients": { "type": "text" },
+      "directions": { "type": "text" },
+      "categories": { "type": "keyword" }
+    }
+  }
+}

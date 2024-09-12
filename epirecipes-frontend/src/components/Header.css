@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    justify-content: center; /* Center the search bar */
+    align-items: center;
+    height: 80px; /* Set the height of the header */
+  }
+  
+  .search-bar {
+    position: relative;
+    width: 400px; /* Set a fixed width for the search bar */
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 10px 5px 10px 15px; /* Space for the icon on the right */
+    border-radius: 20px; /* Rounded edges */
+    border: 1px solid #ccc; /* Light border */
+    font-size: 16px; /* Font size */
+    outline: none;
+  }
+  
+  .search-icon {
+    position: absolute;
+    right: 0px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 18px;
+    color: #aaa;
+  }
+  

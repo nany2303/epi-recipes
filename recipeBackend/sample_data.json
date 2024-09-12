@@ -1,0 +1,6 @@
+{ "index": { "_index": "epirecipes", "_id": "1" } }
+{ "id": "1", "title": "Spaghetti Carbonara", "ingredients": "spaghetti, eggs, pancetta, parmesan cheese, black pepper", "directions": "Cook spaghetti. Fry pancetta. Mix eggs and cheese. Combine all ingredients.", "categories": ["pasta", "Italian"] }
+{ "index": { "_index": "epirecipes", "_id": "2" } }
+{ "id": "2", "title": "Chicken Curry", "ingredients": "chicken, curry powder, onions, garlic, ginger", "directions": "Cook chicken. Sauté onions, garlic, and ginger. Add curry powder and mix. Combine with chicken.", "categories": ["curry", "Indian"] }
+{ "index": { "_index": "epirecipes", "_id": "3" } }
+{ "id": "3", "title": "Vegetable Stir Fry", "ingredients": "broccoli, bell peppers, carrots, soy sauce, garlic", "directions": "Stir fry vegetables. Add soy sauce and garlic. Cook until tender.", "categories": ["vegetarian", "Asian"] }

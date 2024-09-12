@@ -1,0 +1,26 @@
+.recipe_component_container {
+    width: 15%;
+    border: 1px solid black;
+    margin: 1.5%;
+    padding: 10px;
+    border-radius:10px;
+}
+
+.recipe_image{
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;   
+}
+
+.ellipsis {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.main-text{
+    font-weight: 500;
+}
